@@ -1,4 +1,4 @@
-# grenade
+# grenade throwing macro
 This FoundryVTT macro helps GM/Players to speed up grenade attacks
 
 1. Choose your token (the thrower)
